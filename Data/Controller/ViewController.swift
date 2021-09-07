@@ -1,10 +1,6 @@
 //
 //  ViewController.swift
 //  Data
-//
-//  Created by Chethan on 11/05/21.
-//  Copyright © 2021 Chethan. All rights reserved.
-//
 
 import UIKit
 
